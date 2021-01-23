@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=piratechetan&theme=dark&show_icons=true)
+![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=piratechetan&theme=radical&show_icons=true)
