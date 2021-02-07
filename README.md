@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <img src="https://i.ibb.co/TgNFG6D/u4YcCXDn.gif" width="230" align="center"></h1>
+<h1 align="center">HI..(こんにちは)👋, I'M <img src="https://i.ibb.co/TgNFG6D/u4YcCXDn.gif" width="230" align="center"></h1>
 <h3 align="center">A passionate frontend-End developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piratechetan&label=Profile%20views&color=0e75b6&style=flat" alt="piratechetan" /> </p>
@@ -34,3 +34,4 @@
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=piratechetan&theme=chartreuse-dark&hide_langs_below=4' align='left'/>
 <img src = 'https://github-readme-stats.vercel.app/api?username=piratechetan&show_icons=true&theme=chartreuse-dark&count_private=true&line_height=40' align='center'>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=piratechetan&theme=chartreuse-dark' align='center'/>
+ 
