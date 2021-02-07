@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/i_am_chetan_sharma" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="i_am_chetan_sharma" height="50" width="60" /></a>
+<a href="https://instagram.com/i_am_chetan_sharma" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="i_am_chetan_sharma" height="50" width="60" /></a><a href="https://www.linkedin.com/in/chetan-sharma-5b5163191/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="chetan-sharma-5b5163191/" height="50" width="60" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
