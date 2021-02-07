@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/i_am_chetan_sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_am_chetan_sharma" height="30" width="40" /></a>
+<a href="https://instagram.com/i_am_chetan_sharma" target="blank"><img align="center" src="https://download.logo.wine/logo/Instagram/Instagram-Logo.wine.png" alt="i_am_chetan_sharma" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
