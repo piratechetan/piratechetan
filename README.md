@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piratechetan&label=Profile%20views&color=0e75b6&style=flat" alt="piratechetan" /> </p>
 
+<img src="https://i.ibb.co/svZHKbH/Untitled-design-1.png" />
+
 - 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [Codelance](https://codelance.me/)
@@ -19,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piratechetan&show_icons=true&locale=en&layout=compact" alt="piratechetan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piratechetan&show_icons=true&locale=en" alt="piratechetan" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=piratechetan&show_icons=true&locale=en" alt="piratechetan" /></p>
