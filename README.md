@@ -15,7 +15,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/i_am_chetan_sharma" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="i_am_chetan_sharma" height="50" width="60" /></a><a href="https://www.linkedin.com/in/chetan-sharma-5b5163191/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="chetan-sharma-5b5163191/" height="50" width="60" /></a><a href="https://twitter.com/piratechetan" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" alt="piratechetan" height="50" width="60" /></a>
+  <a href="https://www.linkedin.com/in/chetan-sharma-5b5163191/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" align="center"/>
+</a>
+  <a href="https://github.com/piratechetan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" align="center"/>
+</a>
+  <a href="https://instagram.com/i_am_chetan_sharma" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" align="center"/>
+</a>
+  <a href="https://twitter.com/piratechetan" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" align="center"/>
+</a>
+
 
 </p>
 <table>
