@@ -59,4 +59,5 @@
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=piratechetan&theme=chartreuse-dark&hide_langs_below=4' align='left'/>
 <img src = 'https://github-readme-stats.vercel.app/api?username=piratechetan&show_icons=true&theme=chartreuse-dark&count_private=true&line_height=40' align='center'>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=piratechetan&theme=chartreuse-dark' align='center'/>
+<img align='right' src="https://media.giphy.com/media/WPozw7z6nUMrQ12Kc7/giphy.gif" width="230" >
  
