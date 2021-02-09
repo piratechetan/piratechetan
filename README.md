@@ -5,7 +5,7 @@
 
 <img src="https://i.ibb.co/svZHKbH/Untitled-design-1.png" />
 
-<img align='left' src="https://media.giphy.com/media/roIRm9blot1UQ/giphy.gif" width="230" >
+<img align='left' src="https://media.giphy.com/media/roIRm9blot1UQ/giphy.gif"  >
 
 - 🌱 I’m currently learning **React-Native**
 
