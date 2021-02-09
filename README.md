@@ -5,7 +5,7 @@
 
 <img src="https://i.ibb.co/svZHKbH/Untitled-design-1.png" />
 
-<img align='left' src="https://media.giphy.com/media/roIRm9blot1UQ/giphy.gif" width="230" height="200">
+<img align='left' src="https://media.giphy.com/media/roIRm9blot1UQ/giphy.gif" width="230" height="170">
 
 - 🌱 I’m currently learning **React-Native**
 
@@ -30,7 +30,7 @@
 
 
 </p>
-<table style="margin-top:100px" >
+<table>
   <tr>
     <td>Languages</td>
     <td><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></td>
