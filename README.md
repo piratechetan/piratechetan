@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [Codelance](https://codelance.me/)
+<! ––- 👨‍💻 All of my projects are available at [Codelance](https://codelance.me/)––>
 
 - 📫 How to reach me **cs10022000@gmail.com**
 
